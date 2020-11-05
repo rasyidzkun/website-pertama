@@ -1,1 +1,1 @@
-Ini adalah website pertama saya yang saya bangun menggunakan HTML , CSS , Bootstrap , dan JavaScript
+Ini adalah website pertama saya yang saya bangun menggunakan Framework Bootstrap 4 
